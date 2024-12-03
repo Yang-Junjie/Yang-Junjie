@@ -6,7 +6,6 @@ At the same time, I also like mathematics and physics. Physics for me is a part 
 Here is my personal website: [Beisent](http://beisent.com/)  
 
 ## Analyze  
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Yang-Junjie&left_color=green&right_color=red)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yang-Junjie)](https://github.com/anuraghazra/github-readme-stats)
 
 
