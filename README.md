@@ -9,7 +9,6 @@ Favorite language
 
 
 ## Analyze  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Yang-Junjie)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yang-Junjie&layout=compact)
 
 
