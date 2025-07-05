@@ -17,7 +17,6 @@ Skills mastered (in chronological order) :
 
 ## Analyze  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yang-Junjie&layout=compact)  
-![YangJunjie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yang-Junjie&show_icons=true&bg_color=00000000)
 
 
 
