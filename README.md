@@ -1,5 +1,4 @@
-🖐🏻Hi, I'm Yang Junjie, an undergraduate student majoring in Computational mathematics. I usually like to create something to provide some value for everyone.My value is to make obvious contributions to human society.
-
+🖐🏻Hi, I'm Yang Junjie, an undergraduate student majoring in Computational mathematics. I usually like to create something to provide some value for everyone.
 🔬My hobbies: 
 Natural science, Mathematics, Philosophy. 
 
