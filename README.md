@@ -1,14 +1,11 @@
-🖐🏻Hi, I'm Yang Junjie, an undergraduate student majoring in Computational mathematics. I usually like to create something to provide some value for everyone.  
-🔬My hobbies: Natural science, Mathematics, Philosophy.  
-💜My hobbies in computers:Reinvent the wheel, Computer Graphics,Numerical Computing. 
+👋 Hi, I'm Yang Junjie  
+Undergraduate student in **Computational Mathematics**  
 
+🛠️ I love building tools that solve real problems — often by *reinventing the wheel*, just to understand it better.  
+🔭 Passionate about: **Natural Science**, **Mathematics**, and **Philosophy**  
+💻 In the digital realm: **Computer Graphics**, **Numerical Computing**, and low-level systems  
 
-## Analyze  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yang-Junjie&layout=compact)  
+📊 My coding stack (mostly):
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yang-Junjie&layout=compact)](https://github.com/Yang-Junjie)
 
-
-
-
-
-
-
+✨ Always learning. Always creating.
