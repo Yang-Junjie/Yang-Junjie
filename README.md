@@ -1,5 +1,4 @@
-👋 Hi, I'm Yang Junjie  
-Undergraduate student in **Computational Mathematics**  
+👋 Hi, I'm Yang Junjie a Undergraduate student in **Computational Mathematics**  
 🛠️ I love building tools that solve real problems — often by *reinventing the wheel*, just fun.  
 🔭 Passionate about: **Natural Science**, **Mathematics**, and **Philosophy**  
 💻 In the digital realm: **Computer Graphics**, **Numerical Computing**, and low-level systems  
