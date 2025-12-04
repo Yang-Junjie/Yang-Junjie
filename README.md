@@ -5,7 +5,4 @@
 📓 This is my personal website and blog: [beisent.com](http://beisent.com)  
 🏫 I founded a lab called [Beisent](https://github.com/Beisent), focused on **Natural Science**, **Mathematics**, **Computer Graphics**, and **Computer Science**  
 
-📊 My coding stack (mostly):  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yang-Junjie&layout=compact&theme=radical)
-
 ✨ Always learning. Always creating.
