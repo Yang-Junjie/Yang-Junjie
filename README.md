@@ -4,6 +4,6 @@
 💻 In the digital realm: **Computer Graphics**, **AI**, and low-level systems  
 
 ### Contact me
-[![Bilibili](https://img.shields.io/badge/Bilibili-ff69b4?style=flat-square)](https://space.bilibili.com/438433526)
+[![Bilibili](https://img.shields.io/badge/Bilibili-氧均竭-ff69b4?style=flat-square)](https://space.bilibili.com/438433526)
 
 ✨ Always learning. Always creating.
