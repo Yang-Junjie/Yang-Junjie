@@ -1,7 +1,7 @@
 👋 Hi, I'm Junjie Yang  
 🎓 Computational Mathematics Undergraduate  
 💻 Developer & Tech Enthusiast  
-🎨 Graphics: Passionate about Computer Graphics & Visual Computing.  
+🎨 Graphics: Passionate about Computer Graphics.  
 🛠️ Tools: Dedicated to building tools that empower others.  
 📚 Teaching: Committed to knowledge sharing and community growth.  
 🔍 Principles: I thrive on diving deep into low-level systems and mechanics.  
