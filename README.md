@@ -12,4 +12,4 @@
 ### Contact me
 [![Bilibili](https://img.shields.io/badge/Bilibili-氧均竭-ff69b4?style=flat-square)](https://space.bilibili.com/438433526)
 [![QQ Group](https://img.shields.io/badge/QQGroup-AI旧时代残党-279cf5?style=flat-square)](https://qm.qq.com/q/nRTKSGa1yM)
-[![CGLab](https://img.shields.io/badge/CGLab-Blog-27f5cf?style=flat-square)](https://qm.qq.com/q/nRTKSGa1yM)
+[![CGLab](https://img.shields.io/badge/CGLab-Blog-27f5cf?style=flat-square)](https://blog.cglab.top/)
