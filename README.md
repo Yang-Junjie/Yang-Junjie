@@ -12,3 +12,5 @@
 ### Contact me
 [![Bilibili](https://img.shields.io/badge/Bilibili-氧均竭-ff69b4?style=flat-square)](https://space.bilibili.com/438433526)
 [![CGLab](https://img.shields.io/badge/Blog-CGLab-27f5cf?style=flat-square)](https://blog.cglab.top/)
+[![知乎](https://img.shields.io/badge/Blog-CGLab-27f5cf?style=flat-square)](https://www.zhihu.com/people/zhisyx2vdp)
+
