@@ -1,4 +1,4 @@
-👋 Hi, I'm Artichoke
+👋 Hi, I'm Artichoke  
 🎓 Computational Mathematics Undergraduate  
 💻 Developer & Tech Enthusiast  
 🎨 Graphics: Passionate about Computer Graphics.  
