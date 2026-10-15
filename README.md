@@ -1,4 +1,4 @@
-👋 Hi, I'm Artichoke  
+👋 Hi, I'm Artichoke [profile](https://blog.cglab.top/profile/)  
 🎓 Computational Mathematics Undergraduate  
 💻 Developer & Tech Enthusiast  
 🎨 Graphics: Passionate about Computer Graphics.  
