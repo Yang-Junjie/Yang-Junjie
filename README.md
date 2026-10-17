@@ -5,7 +5,7 @@
 🛠️ Tools: Dedicated to building tools that empower others.  
 📚 Teaching: Committed to knowledge sharing and community growth.  
 🔍 Principles: I thrive on diving deep into low-level systems and mechanics.  
-🔭 Interests: Natural Science, Mathematics, and Philosophy，btw i like 🐧 operating system.   
+🔭 Interests: Natural Science, Mathematics, and Philosophy; I also like 🐧 operating systems.   
 
 ✨ Always learning. Always creating.    
   
